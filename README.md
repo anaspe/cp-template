@@ -1,2 +1,11 @@
-# cp-template
-templates for competitive programming (written by me, prolly the reason they are shitty)
+# Draid's CP Library
+
+### Todo:
+- [ ] Fenwick Tree
+- [ ] Segment Tree
+- [ ] Trie
+- [ ] Nelder-Mead
+- [ ] Dijkstra
+- [ ] Bellman-Ford
+- [ ] SPFA
+- [ ] String Hashing
